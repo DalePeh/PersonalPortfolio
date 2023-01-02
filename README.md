@@ -13,7 +13,7 @@
 *Italic*
 ***Italic Bold***
 
-<span style="color:red">><<b> This is a red bold text</b></span>
+<span style="color:red"><<b> This is a red bold text</b></span>
 
 <!---
 DalePeh/DalePeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

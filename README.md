@@ -6,7 +6,7 @@
 
 **Project Portfolio**
 
-1. Mavern Pizza Analysis ![View](https://github.com/DalePeh/DalePeh/blob/main/pizza-sales-analysis.ipynb)
+1. Mavern Pizza Analysis [View](https://github.com/DalePeh/DalePeh/blob/main/pizza-sales-analysis.ipynb)
 <!---
 DalePeh/DalePeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

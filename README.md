@@ -7,6 +7,8 @@
 **Project Portfolio**
 
 1. Mavern Pizza Analysis [View](https://github.com/DalePeh/DalePeh/blob/main/pizza-sales-analysis.ipynb)
+2. Geospatial Visulization of Citibike Stations [View](https://github.com/DalePeh/DalePeh/blob/main/citibike-2211-geospatial-visualization.ipynb)
+
 <!---
 DalePeh/DalePeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

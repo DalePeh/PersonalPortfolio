@@ -8,7 +8,7 @@
 
 1. Mavern Pizza Analysis [View](https://github.com/DalePeh/DalePeh/blob/main/pizza-sales-analysis.ipynb)
 2. Geospatial Visulization of Citibike Stations [View](https://github.com/DalePeh/DalePeh/blob/main/citibike-2211-geospatial-visualization.ipynb)
-3. HDB Resale Price Prediction *(In progress)* [View](https://www.kaggle.com/code/dalepeh/eda-model-pipepline)
+3. HDB Resale Price Prediction [View](https://www.kaggle.com/code/dalepeh/eda-model-pipepline)
 
 
 <!---

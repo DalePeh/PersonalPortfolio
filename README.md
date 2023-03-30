@@ -4,7 +4,7 @@ Hi, I’m @DalePeh. I’m interested in Machine Learning and Data Visualisation.
 
 **Project Portfolio**
 
-**1. Mavern Pizza Analysis** [View](https://github.com/DalePeh/DalePeh/blob/main/pizza-sales-analysis.ipynb)<br>
+**1. Mavern Pizza Analysis** [View](https://www.kaggle.com/code/dalepeh/pizza-sales-analysis)<br>
 Exploratory Data Analysis of pizza sales from a pseudo Mavern Pizza Restaurant. A fair bit of feature engineering is required to get the results.
 
 **2. Geospatial Visulization of Citibike (NY) Stations** [View](https://www.kaggle.com/code/dalepeh/citibike-2211-geospatial-visualization)<br>

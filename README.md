@@ -13,7 +13,7 @@ Using Folium, I visualised the bike sharing stations in NY with markers that sho
 3. HDB Resale Price Prediction [View](https://www.kaggle.com/code/dalepeh/eda-model-pipepline)<br>
 A popular regression project. I have decided to turn it into a model comparison; showcasing various regression models.
 
-4. MCU Dashboard [View App](https://mcudash-dalesg.b4a.run/) [View Repository](https://github.com/DalePeh/dashboard_projects)<br>
+4. MCU Dashboard | [View App](https://mcudash-dalesg.b4a.run/) | [View Repository](https://github.com/DalePeh/dashboard_projects)<br>
 An interactive dashboard built using python with Dash Plotly.
 
 5. NLP Project on Sentiment Analysis and Text Classification [View](https://github.com/DalePeh/PersonalPortfolio/blob/main/NLP_NetflixAsianTopShows.ipynb)<br>
